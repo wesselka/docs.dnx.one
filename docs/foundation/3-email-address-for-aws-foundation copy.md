@@ -30,9 +30,10 @@ _e.g.: aws@dnxsolutions.com.au_
 Alias1: aws-organization-audit@yourdomain
 _E.g.:_ _ **aws-dnx-audit@dnxsolutions.com.au** _
 
-| Alias2| aws-organization-shared-services@yourdomain  |
-| Alias3| aws-organization-nonprod@yourdomain  |
-| Alias4| aws-organization-prod@yourdomain |
+| Alias2| aws-organization-log-archive@yourdomain  |
+| Alias3| aws-organization-shared-services@yourdomain  |
+| Alias4| aws-organization-nonprod@yourdomain  |
+| Alias5| aws-organization-prod@yourdomain |
 
 **Provider: G Suite**
 
